@@ -1,0 +1,5 @@
+This project was done in Jupyter Notebook in Python 3 using NumPy and Mathplotlib.
+
+This is a guided project of Coursera in Machine learning for Univariate Linear Regression.
+
+
